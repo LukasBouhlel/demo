@@ -1,14 +1,22 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Qui je suis" },
+    { "id": 2, "title": "Mes centres d’intérêts" },
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Je me présente, je m'appelle Lukas Bouhlel jeune étudiant en dévellopement web agée de 22 ans, j'ai toujours vécu a Lyon.", "postId": 1 }
+    { "id": 1, "body": "Je suis de nature calme et patient.", "postId": 1 }
+    { "id": 1, "body": "Je suis rigoureux et sérieux dans ce que je fais.", "postId": 1 }
+    { "id": 1, "body": "J'ai la capacité de m'adapter rapidement et j'aime le travail d'équipe.", "postId": 1 }
+    { "id": 1, "body": "Je suis motivé et volontaire.", "postId": 1 }    
+    { "id": 2, "body": "J'aime voyager pour découvrir de nouveau horizons et des cultures différentes.", "postId": 1 }    
+    { "id": 2, "body": "Je suis passioné par la culture Japonaise ainsi que les jeux vidéos que sa soit sur console ou sur PC.", "postId": 1 }    
+    { "id": 2, "body": "J'aime faire des randonnées en montagne pour admirer les différents paysage que nous offre la nature en fonction des saisons.", "postId": 1 }    
+    { "id": 2, "body": "La musique m 'aide a me recentrer sur moi même, me concentrer et lorsque j'en ai besoin, de permettre a mon esprit de s'évader.", "postId": 1 }    
+    { "id": 2, "body": "Le sport me permet de me dépenser, j'apprécie particulièrement la natation et le ski.", "postId": 1 }    
+    { "id": 2, "body": "J'ai toujours aimer tout ce qui ce rapporte a l'informatique, ma formation m'a permis d'apprendre et d'éllargir mes connaissances (codage, dévellopement web, ...)", "postId": 1 }    
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Lukas"
   }
 }
